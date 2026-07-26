@@ -1,0 +1,29 @@
+{
+  "patente": "SCPP21",
+  "marca": "Chery",
+  "modelo": "Tiggo 8 Pro",
+  "anio": 2022,
+  "url": "https://respdocs.github.io/SCPP21/",
+  "documentos": [
+    {
+      "id": "pc",
+      "nombre": "Permiso de Circulación",
+      "vence": "2026-08-31"
+    },
+    {
+      "id": "soap",
+      "nombre": "Seguro Obligatorio (SOAP)",
+          "vence": "2027-03-31"
+    },
+    {
+      "id": "rt",
+      "nombre": "Revisión Técnica",
+        "vence": "2027-04-30"
+    },
+    {
+      "id": "rg",
+      "nombre": "Revisión de Gases",
+      "vence": "2027-04-30"
+    }
+  ]
+}
